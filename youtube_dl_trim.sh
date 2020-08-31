@@ -5,7 +5,7 @@
 #  - youtube-dl ($ brew install youtube-dl)
 #
 # Usage:
-#   $ . youtube-trim.sh
+#   $ . youtube_dl_trim.sh
 #   $ trim_video
 
 # Try audio format 18 if bestaudio doesn't work.
